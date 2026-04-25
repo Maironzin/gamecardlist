@@ -1,6 +1,6 @@
 {
-    "name": "gamecardlist",
-    "short_name": "gamecardlist",
+    "name": "game_card_list",
+    "short_name": "game_card_list",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
