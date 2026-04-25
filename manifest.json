@@ -1,6 +1,6 @@
 {
-    "name": "game_card_list",
-    "short_name": "game_card_list",
+    "name": "my_app_name",
+    "short_name": "my_app_name",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
